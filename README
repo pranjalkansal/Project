@@ -1,0 +1,41 @@
+Grade Point Calculator:
+
+/*********************
+	Description: 
+**********************/
+
+The project is aimed to calculate user's cgpa and sgpa for the current or a 
+given semester and generate a file with user name that prepare a look alike of
+his/her grade card.
+
+/**********************
+	Installation:
+**********************/
+
+To run this program you have to copy all these files below:
+
+	+-----------------+
+	|     Filename    |
+	+-----------------+
+	| application.cpp |
+	| application.h   |
+	| department.cpp  |
+	| department.h    |
+	|    header.h     |
+	|    Makefile     |
+	+-----------------+
+in a folder and from terminal, go to the directory containing these files and
+type make in terminal.
+
+After compilation, run command ./Grade_calculator and type the necessary data
+when prompted.
+
+/*********************
+	Data Input:
+*********************/
+
+The program is intended for chitkara university, himachal campus, so it takes
+user name as student's ID and calculate all the necessary details such as 
+department and semester via his/her ID.
+
+*************************** THANK YOU ************************************
